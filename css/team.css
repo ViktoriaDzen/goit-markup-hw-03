@@ -1,0 +1,19 @@
+.team {
+  background: #f4f4fd;
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  /* line-height: 40px; */
+  line-height: 1.11;
+  text-align: center;
+}
+
+.team-item .card-title,
+.team-item .card-text {
+  text-align: center;
+}
+
+.team-item {
+  background: #fff;
+}
