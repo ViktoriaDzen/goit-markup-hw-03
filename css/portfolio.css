@@ -14,9 +14,8 @@
   width: calc((100% - 24px * 2) / 3);
 }
 
-.card-title {
-}
-.card-text {
+.portfolio-item .card-title {
+  margin-bottom: 8px;
 }
 
 .portfolio-card-content {

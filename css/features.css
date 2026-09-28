@@ -1,6 +1,5 @@
 .features {
   background: #fff;
-  padding: 120px 0;
 }
 
 .container {
@@ -20,5 +19,6 @@
 .features-item {
   width: calc((100% - 24px * 3) / 4);
 }
-.card-text {
+.features-item .card-title {
+  margin-bottom: 8px;
 }
