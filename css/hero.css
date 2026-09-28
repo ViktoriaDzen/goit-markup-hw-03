@@ -24,8 +24,15 @@
   min-width: 169px;
   font-weight: 500;
   font-size: 16px;
+  font-family: inherit;
+  line-height: 1.5;
   /* line-height: 24px; */
   letter-spacing: 0.04em;
   color: #fff;
   text-align: center;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
 }

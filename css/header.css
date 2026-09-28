@@ -50,3 +50,10 @@
   display: block;
   padding: 24px 0;
 }
+
+.main-nav-link:hover,
+.main-nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+}
