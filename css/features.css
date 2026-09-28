@@ -20,8 +20,5 @@
 .features-item {
   width: calc((100% - 24px * 3) / 4);
 }
-.card-title {
-  margin-bottom: 8px;
-}
 .card-text {
 }
